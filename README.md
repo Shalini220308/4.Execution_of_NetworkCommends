@@ -75,7 +75,21 @@ s.close()
 ```
 
 ## Output
-![alt text](<Screenshot 2026-03-12 133807.png>)
-
+ipconfig: 
+![alt text](<Screenshot 2026-03-13 111025.png>)
+netstat:
+![alt text](image.png)
+ping:
+![alt text](image-1.png)
+tracernet:
+![alt text](image-2.png)
+nslookup:
+![alt text](image-3.png)
+getmac:
+![alt text](image-4.png)
+nbstat:
+![alt text](image-5.png)
+arp:
+![alt text](image-6.png)
 ## Result
 Thus Execution of Network commands Performed 
